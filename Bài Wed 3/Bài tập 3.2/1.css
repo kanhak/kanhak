@@ -1,0 +1,9 @@
+.background{
+    float:left;
+    display: flex;
+    height: 250px;
+    width: 170px;
+}
+img{
+    max-width: 100%;
+}
